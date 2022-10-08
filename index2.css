@@ -1,0 +1,59 @@
+/* Richard Davies, Data Science for Economists */
+
+/* This is my second CSS file */
+
+
+/* Import a font, go onto the google fonts website and choose the import url*/
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+
+/* Set the background color for my page: */
+
+/* Book on colour = Joseph Albers - Interaction of Colour */
+
+body{
+    background-color: rgb(194, 236, 241);
+ }
+
+
+/* Choose the appearance of the tags, h1, h3 and p: */
+
+h1{
+    color:rgb(14, 38, 62);
+    font-family: 'Silkscreen', sans-serif;
+    text-align: center; 
+    size: 200px
+}
+
+
+h3, p{
+    color:rgb(14, 38, 62);
+    font-family: 'Roboto', sans-serif;
+    text-align: center; 
+    size: 200px
+}
+    
+.myWeek1{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(220, 239, 241);
+
+      
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(100,100,100);
+}
+
+
+/* Set the apperance of the class, chart */
+.chart{
+    background-color: white;
+    width:450px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: grey;
+    
+}
+    

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+
+    <!--Main Stylesheet-->
+    <link rel="stylesheet" href="portfolio.css">
+</head>
+
+<body>
+
+<div class="container">    
+
+    <h1>Portfolio:</h1> 
+    <a href="indexClassExample.html" id="link1">HOME</a>
+<div>
+
+  <div>
+        <h2>Week 1: </h2>
+        <h3>Set up your GitHub repository and design your first home page using the index.html file we provided. Replace the two charts with two more from the rapidcharts repository, and change the titles and descriptions of the charts. </p1>
+  </div>
+    
+<container class="bcontainer">
+<div>
+    <div class="chart" id="Chart1" ></div>
+    <div class="chart" id="Chart2"> </div>
+
+</div>
+
+</container>
+
+</div>
+    <h5> Week 2: </h5>
+    <h6> </h6>
+</div>
+
+</body>
+
+<script>
+    //Define charts:
+    var myChart1 = "chart9_ozoneEmissionsAPI.json";
+    var myChart2 = "chartENV1.json";
+
+    // Embed charts:
+    vegaEmbed('#Chart1', myChart1);
+    vegaEmbed('#Chart2', myChart2);
+</script>
+
+
+</html>

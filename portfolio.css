@@ -1,0 +1,101 @@
+
+/* FONTS: 
+ Import fonts used from google fonts website */
+
+ @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Assistant&display=swap');   
+ 
+ /* Format the title and subtitle of the website  */
+ 
+ h1{
+     color:rgb(138, 172, 175);
+     font-family: 'Bebas Neue', sans-serif;
+     text-align: center; 
+     font-size: 100px;
+ }
+ 
+ /* AREAS OF THE PAGE */
+ 
+ body{
+     background-color: rgb(13, 65, 70);
+ }
+ 
+ h2{color:rgb(189, 208, 210);
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    text-align: center;}
+
+h3{color:rgb(189, 208, 210);
+    font-family: 'Assistant', sans-serif;
+    font: size 50px;
+    text-align: center; }
+
+h4{color:rgb(189, 208, 210);
+    font-family: 'Assistant', sans-serif;
+    font: size 50px;
+    text-align: center; }
+
+h5{color:rgb(189, 208, 210);
+        font-family: 'Bebas Neue', sans-serif;
+        font-size: 50px;
+        text-align: center;}
+
+p{color:rgb(189, 208, 210);
+    font-family: 'Assistant', sans-serif;
+    font: size 50px;
+    text-align: center;}
+
+    .chart{
+        background-color: lightgrey;
+        width: 380px;
+        border-width: 5px;
+        border-style: solid;
+        border-radius: 10px;
+        border-color: rgb(189, 208, 210);
+        margin: 30;
+    }
+ 
+ 
+
+ /* BUTTONS */
+ 
+ a{
+     border: 5px;
+     border-color: black;
+     border-style: solid;
+ 
+     margin: 650px;
+ }
+ 
+ #link1{
+     background-color: rgb(201, 220, 222);
+     padding: 30px;
+     border:2px;
+     border-color:rgb(13, 65, 70);
+     border-style: solid;
+     border-radius: 10px;
+     font-family: 'Assistant', Courier, monospace;
+     font-weight:700;
+     color: slategray;
+     text-decoration: none;
+ }
+ 
+ #link1:hover{
+ 
+     background-color: rgba(13, 65, 70);
+     border:2px;
+     border-color: rgb(201, 220, 222);
+     border-style: solid;
+     
+ }
+ 
+ .bcontainer {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;;
+    gap: 30px 30px;
+    margin-top: 30px;
+    padding: 30px;
+    border-radius: 0px;
+    background-color: rgb(189, 208, 210);
+  }

@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -7,49 +6,29 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <!-- Title for the page -->
     <title>Document</title>
 
-    <!-- Link to my style sheet -->
-    <link rel="stylesheet" href="index2.css">
+    <!--Main Stylesheet-->
+    <link rel="stylesheet" href="index.css">
 
-    <!-- this links to a style sheet which gives the page styles -->
-
-    <!--The next three lines allow the Vega embed-->
-    <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
 </head>
 
-
-
 <body>
-    <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
-    <div class="myWeek1">
-        <h1>Data Science</h1>
-        
-        <h3>Ozone Concentration</h3>
-        <p>The first chart shows average daily ozone concentration in Bristol and in the UK.</p>
-        <div class="chart" id="Chart1"></div>
 
-        <h3>CO2 Emissions by country</h3>
-        <p>My second chart shows CO2 emissions in 5 countries.</p>
-        <div class="chart" id="Chart2"> </div>
-    </div> 
+<div class="wrap">    
+
+    <h1>Data Science Project:</h1>    
+
+    <p>MIA SUTCLIFFE STUDENT ID: 2011797. </p>
+
+    <a href="portfolio.html" id="link1">PORTFOLIO</a>
+    <a href="project.html" id="link2">MY PROJECT</a>
+    <a href="https://github.com/miasutcliffe/miasutcliffe.github.io" id="link3">GITHUB</a>
+    <a href="https://rapidcharts.io/datascience" id="link4">COURSE</a>
+
+</div>
+
 </body>
 
 
-<script>
-    //Define charts:
-    var myChart1 = "chart9_ozoneEmissionsAPI.json";
-    var myChart2 = "chartENV1.json";
-
-    // Embed charts:
-    vegaEmbed('#Chart1', myChart1);
-    vegaEmbed('#Chart2', myChart2);
-</script>
-
 </html>
-
-

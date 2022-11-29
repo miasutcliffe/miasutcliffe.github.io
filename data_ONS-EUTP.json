@@ -1,0 +1,738 @@
+{
+    "description": {
+        "cdid": "EUTP",
+        "contact": {
+            "email": "business.prices@ons.gov.uk",
+            "name": "Chris Jenkins",
+            "telephone": "+44 1633 456907"
+        },
+        "datasetId": "PPI",
+        "datasetUri": "/economy/inflationandpriceindices/datasets/producerpriceindexstatisticalbulletindataset",
+        "date": "2022 OCT",
+        "nextRelease": "14 December 2022",
+        "number": "168.2",
+        "preUnit": "",
+        "releaseDate": "2022-11-16T00:00:00.000Z",
+        "sampleSize": "0",
+        "source": "",
+        "title": "Exports of Motorcycles",
+        "unit": ""
+    },
+    "months": [
+        {
+            "date": "2018 SEP",
+            "label": "2018 SEP",
+            "month": "September",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "114.8",
+            "year": "2018"
+        },
+        {
+            "date": "2018 OCT",
+            "label": "2018 OCT",
+            "month": "October",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "114.6",
+            "year": "2018"
+        },
+        {
+            "date": "2018 NOV",
+            "label": "2018 NOV",
+            "month": "November",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "114.6",
+            "year": "2018"
+        },
+        {
+            "date": "2018 DEC",
+            "label": "2018 DEC",
+            "month": "December",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "114.8",
+            "year": "2018"
+        },
+        {
+            "date": "2019 JAN",
+            "label": "2019 JAN",
+            "month": "January",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "115.2",
+            "year": "2019"
+        },
+        {
+            "date": "2019 FEB",
+            "label": "2019 FEB",
+            "month": "February",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "138.4",
+            "year": "2019"
+        },
+        {
+            "date": "2019 MAR",
+            "label": "2019 MAR",
+            "month": "March",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "155.6",
+            "year": "2019"
+        },
+        {
+            "date": "2019 APR",
+            "label": "2019 APR",
+            "month": "April",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "155.7",
+            "year": "2019"
+        },
+        {
+            "date": "2019 MAY",
+            "label": "2019 MAY",
+            "month": "May",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "155.9",
+            "year": "2019"
+        },
+        {
+            "date": "2019 JUN",
+            "label": "2019 JUN",
+            "month": "June",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "156.4",
+            "year": "2019"
+        },
+        {
+            "date": "2019 JUL",
+            "label": "2019 JUL",
+            "month": "July",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "155.1",
+            "year": "2019"
+        },
+        {
+            "date": "2019 AUG",
+            "label": "2019 AUG",
+            "month": "August",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "157.5",
+            "year": "2019"
+        },
+        {
+            "date": "2019 SEP",
+            "label": "2019 SEP",
+            "month": "September",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "156.9",
+            "year": "2019"
+        },
+        {
+            "date": "2019 OCT",
+            "label": "2019 OCT",
+            "month": "October",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "156.4",
+            "year": "2019"
+        },
+        {
+            "date": "2019 NOV",
+            "label": "2019 NOV",
+            "month": "November",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "156.0",
+            "year": "2019"
+        },
+        {
+            "date": "2019 DEC",
+            "label": "2019 DEC",
+            "month": "December",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "155.8",
+            "year": "2019"
+        },
+        {
+            "date": "2020 JAN",
+            "label": "2020 JAN",
+            "month": "January",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "156.9",
+            "year": "2020"
+        },
+        {
+            "date": "2020 FEB",
+            "label": "2020 FEB",
+            "month": "February",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "157.4",
+            "year": "2020"
+        },
+        {
+            "date": "2020 MAR",
+            "label": "2020 MAR",
+            "month": "March",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "158.0",
+            "year": "2020"
+        },
+        {
+            "date": "2020 APR",
+            "label": "2020 APR",
+            "month": "April",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "157.6",
+            "year": "2020"
+        },
+        {
+            "date": "2020 MAY",
+            "label": "2020 MAY",
+            "month": "May",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "157.9",
+            "year": "2020"
+        },
+        {
+            "date": "2020 JUN",
+            "label": "2020 JUN",
+            "month": "June",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "158.1",
+            "year": "2020"
+        },
+        {
+            "date": "2020 JUL",
+            "label": "2020 JUL",
+            "month": "July",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "158.3",
+            "year": "2020"
+        },
+        {
+            "date": "2020 AUG",
+            "label": "2020 AUG",
+            "month": "August",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "158.2",
+            "year": "2020"
+        },
+        {
+            "date": "2020 SEP",
+            "label": "2020 SEP",
+            "month": "September",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "158.4",
+            "year": "2020"
+        },
+        {
+            "date": "2020 OCT",
+            "label": "2020 OCT",
+            "month": "October",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "158.3",
+            "year": "2020"
+        },
+        {
+            "date": "2020 NOV",
+            "label": "2020 NOV",
+            "month": "November",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "158.0",
+            "year": "2020"
+        },
+        {
+            "date": "2020 DEC",
+            "label": "2020 DEC",
+            "month": "December",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "158.3",
+            "year": "2020"
+        },
+        {
+            "date": "2021 JAN",
+            "label": "2021 JAN",
+            "month": "January",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "158.0",
+            "year": "2021"
+        },
+        {
+            "date": "2021 FEB",
+            "label": "2021 FEB",
+            "month": "February",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "157.5",
+            "year": "2021"
+        },
+        {
+            "date": "2021 MAR",
+            "label": "2021 MAR",
+            "month": "March",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "157.1",
+            "year": "2021"
+        },
+        {
+            "date": "2021 APR",
+            "label": "2021 APR",
+            "month": "April",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "157.3",
+            "year": "2021"
+        },
+        {
+            "date": "2021 MAY",
+            "label": "2021 MAY",
+            "month": "May",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "157.3",
+            "year": "2021"
+        },
+        {
+            "date": "2021 JUN",
+            "label": "2021 JUN",
+            "month": "June",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "157.1",
+            "year": "2021"
+        },
+        {
+            "date": "2021 JUL",
+            "label": "2021 JUL",
+            "month": "July",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "161.7",
+            "year": "2021"
+        },
+        {
+            "date": "2021 AUG",
+            "label": "2021 AUG",
+            "month": "August",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "161.6",
+            "year": "2021"
+        },
+        {
+            "date": "2021 SEP",
+            "label": "2021 SEP",
+            "month": "September",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "161.6",
+            "year": "2021"
+        },
+        {
+            "date": "2021 OCT",
+            "label": "2021 OCT",
+            "month": "October",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "161.3",
+            "year": "2021"
+        },
+        {
+            "date": "2021 NOV",
+            "label": "2021 NOV",
+            "month": "November",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "167.7",
+            "year": "2021"
+        },
+        {
+            "date": "2021 DEC",
+            "label": "2021 DEC",
+            "month": "December",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "167.8",
+            "year": "2021"
+        },
+        {
+            "date": "2022 JAN",
+            "label": "2022 JAN",
+            "month": "January",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "167.4",
+            "year": "2022"
+        },
+        {
+            "date": "2022 FEB",
+            "label": "2022 FEB",
+            "month": "February",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "167.5",
+            "year": "2022"
+        },
+        {
+            "date": "2022 MAR",
+            "label": "2022 MAR",
+            "month": "March",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "167.8",
+            "year": "2022"
+        },
+        {
+            "date": "2022 APR",
+            "label": "2022 APR",
+            "month": "April",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "170.9",
+            "year": "2022"
+        },
+        {
+            "date": "2022 MAY",
+            "label": "2022 MAY",
+            "month": "May",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "171.3",
+            "year": "2022"
+        },
+        {
+            "date": "2022 JUN",
+            "label": "2022 JUN",
+            "month": "June",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "171.6",
+            "year": "2022"
+        },
+        {
+            "date": "2022 JUL",
+            "label": "2022 JUL",
+            "month": "July",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "167.5",
+            "year": "2022"
+        },
+        {
+            "date": "2022 AUG",
+            "label": "2022 AUG",
+            "month": "August",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "167.3",
+            "year": "2022"
+        },
+        {
+            "date": "2022 SEP",
+            "label": "2022 SEP",
+            "month": "September",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-11-16T00:00:00.000Z",
+            "value": "168.3",
+            "year": "2022"
+        },
+        {
+            "date": "2022 OCT",
+            "label": "2022 OCT",
+            "month": "October",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-11-16T00:00:00.000Z",
+            "value": "168.2",
+            "year": "2022"
+        }
+    ],
+    "quarters": [
+        {
+            "date": "2018 Q4",
+            "label": "2018 Q4",
+            "month": "",
+            "quarter": "Q4",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "114.7",
+            "year": "2018"
+        },
+        {
+            "date": "2019 Q1",
+            "label": "2019 Q1",
+            "month": "",
+            "quarter": "Q1",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "136.4",
+            "year": "2019"
+        },
+        {
+            "date": "2019 Q2",
+            "label": "2019 Q2",
+            "month": "",
+            "quarter": "Q2",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "156.0",
+            "year": "2019"
+        },
+        {
+            "date": "2019 Q3",
+            "label": "2019 Q3",
+            "month": "",
+            "quarter": "Q3",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "156.5",
+            "year": "2019"
+        },
+        {
+            "date": "2019 Q4",
+            "label": "2019 Q4",
+            "month": "",
+            "quarter": "Q4",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "156.1",
+            "year": "2019"
+        },
+        {
+            "date": "2020 Q1",
+            "label": "2020 Q1",
+            "month": "",
+            "quarter": "Q1",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "157.4",
+            "year": "2020"
+        },
+        {
+            "date": "2020 Q2",
+            "label": "2020 Q2",
+            "month": "",
+            "quarter": "Q2",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "157.9",
+            "year": "2020"
+        },
+        {
+            "date": "2020 Q3",
+            "label": "2020 Q3",
+            "month": "",
+            "quarter": "Q3",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "158.3",
+            "year": "2020"
+        },
+        {
+            "date": "2020 Q4",
+            "label": "2020 Q4",
+            "month": "",
+            "quarter": "Q4",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "158.2",
+            "year": "2020"
+        },
+        {
+            "date": "2021 Q1",
+            "label": "2021 Q1",
+            "month": "",
+            "quarter": "Q1",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "157.5",
+            "year": "2021"
+        },
+        {
+            "date": "2021 Q2",
+            "label": "2021 Q2",
+            "month": "",
+            "quarter": "Q2",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "157.2",
+            "year": "2021"
+        },
+        {
+            "date": "2021 Q3",
+            "label": "2021 Q3",
+            "month": "",
+            "quarter": "Q3",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "161.6",
+            "year": "2021"
+        },
+        {
+            "date": "2021 Q4",
+            "label": "2021 Q4",
+            "month": "",
+            "quarter": "Q4",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "165.6",
+            "year": "2021"
+        },
+        {
+            "date": "2022 Q1",
+            "label": "2022 Q1",
+            "month": "",
+            "quarter": "Q1",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "167.5",
+            "year": "2022"
+        },
+        {
+            "date": "2022 Q2",
+            "label": "2022 Q2",
+            "month": "",
+            "quarter": "Q2",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "171.2",
+            "year": "2022"
+        },
+        {
+            "date": "2022 Q3",
+            "label": "2022 Q3",
+            "month": "",
+            "quarter": "Q3",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-11-16T00:00:00.000Z",
+            "value": "167.7",
+            "year": "2022"
+        }
+    ],
+    "relatedDatasets": [
+        {
+            "uri": "/economy/inflationandpriceindices/datasets/producerpriceindexstatisticalbulletindataset"
+        }
+    ],
+    "relatedDocuments": [
+        {
+            "uri": "/economy/inflationandpriceindices/bulletins/producerpriceinflation/latest"
+        }
+    ],
+    "sourceDatasets": [],
+    "type": "timeseries",
+    "uri": "/economy/inflationandpriceindices/timeseries/eutp/ppi",
+    "versions": [
+        {
+            "correctionNotice": "",
+            "label": "v1",
+            "updateDate": "2022-11-16T07:00:00.000Z",
+            "uri": "/economy/inflationandpriceindices/timeseries/eutp/ppi/previous/v1"
+        }
+    ],
+    "years": [
+        {
+            "date": "2019",
+            "label": "2019",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "151.3",
+            "year": "2019"
+        },
+        {
+            "date": "2020",
+            "label": "2020",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "158.0",
+            "year": "2020"
+        },
+        {
+            "date": "2021",
+            "label": "2021",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "PPI",
+            "updateDate": "2022-10-18T23:00:00.000Z",
+            "value": "160.5",
+            "year": "2021"
+        }
+    ]
+}

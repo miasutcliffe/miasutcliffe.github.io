@@ -1,12 +1,12 @@
 ﻿Area type,Population 2001,Population 2019,% growth 
-Inner London BUA,"2,859,785","3,633,197",27%
-Outer London BUA,"4,554,330","5,437,216",19%
-City,"6,870,581","7,963,867",16%
-Large town,"10,074,234","11,317,012",12%
-Medium town,"12,111,804","13,487,123",11%
-Small town,"7,387,366","8,138,986",10%
-Other,"5,910,688","6,519,291",10%
-All towns,"29,573,404","32,943,121",11%   
+Inner London BUA,2859785,3633197,27
+Outer London BUA,4554330,5437216,19
+City,6870581,7963867,16
+Large town,10074234,11317012,12
+Medium town,12111804,13487123,11
+Small town,7387366,8138986,10
+Other,5910688,6519291,10
+All towns,29573404,32943121,11
 ,,,
 "Source: Population estimates by output areas, electoral, health and other geographies, Office for National Statistics",,,
 ,,,
